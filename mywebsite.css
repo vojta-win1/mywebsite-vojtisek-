@@ -1,0 +1,199 @@
+.first {
+    padding: 50px;
+    background-color: lightblue;
+    /*border-radius: 50px;
+    border: 20px;*/
+    border-style: solid black;
+    text-align: center;
+
+}
+
+.right {
+    text-align: left 200px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    text-emphasis-color: black;
+}
+
+.infotab {
+    padding: 30px;
+    background-color: lightcyan;
+    text-align: right;
+
+}
+
+.bigtext {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.bigger {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.toppadding {
+    padding-top: 20px;
+}
+
+.highpad {
+    padding-top: 40px;
+}
+
+.second {
+    padding: 30px;
+    background-color: lightcyan;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /*text-transform: capitalize;*/
+    color: gray;
+    font-size: x-large;
+}
+
+.left {
+    margin-left: 50px;
+}
+
+.main {
+    padding: 100px;
+    background-color: lightblue;
+}
+
+.first1 {
+    padding: 50px;
+    background-color: lightblue;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.down {
+    padding: 50px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+
+
+.black {
+    padding: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: pink;
+    margin: 20px;
+
+
+}
+
+.one {
+    background-color: blue;
+    text-align: center;
+
+}
+
+.bro {
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#o {
+    color: white;
+
+    padding-top: 50px;
+}
+
+.prava {
+    margin-left: auto;
+    width: 800px;
+    height: 450px;
+}
+
+.sort {
+    margin-bottom: auto;
+    margin-left: 120px;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+{
+    background-color: rgba(255, 255, 255, 0.486);
+    background-image: image("The image of Elon.jpg");
+    background-blend-mode: overlay;
+}
+.sidebox {
+    height: 150px;
+    width: 200px;
+    background-color: black;
+    margin-right: auto;
+    margin-top: 150px;
+    
+}
+.block {
+    margin-left: 251px;
+    padding: 50px;
+    background-color: red;
+    margin-bottom: 150px;
+    
+}
+.white {
+    color: white;
+}
+
+.sides {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.box {
+    width: 100px;
+    height: 50px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 50px;
+    font-size: 16px;
+    border: 1px solid #000;
+}
+*/
